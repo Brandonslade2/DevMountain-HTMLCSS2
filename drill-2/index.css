@@ -1,0 +1,36 @@
+body{
+    height: 100vh;
+    width: 100vw;
+}
+
+.purplesquare{
+    height: 150px;
+    width: 100px;
+    background-color: purple;
+}
+
+.greensquare{
+    height: 100%;
+    width: 30%;
+    background-color: green;
+}
+
+.bluecircle{
+    height: 100%;
+    width: 270.286px;
+    border-radius: 50%;
+    background-color: aqua;
+}
+
+.firstsection {
+    padding: 5px;
+    margin: auto;
+    margin-top: 10px;
+    width: 90%;
+    height: 25%;
+    background-color: white;
+    border: 1vh solid black;
+    display: flex;
+    gap: 40px;
+    align-items: flex-end;
+}

@@ -1,0 +1,32 @@
+
+body{
+    background-color: rgb(210, 209, 209);
+}
+
+.top{
+    height: 13%;
+    width: 100%;
+    background-color: rgb(59, 55, 55);
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+
+.content{
+    left: 13%;
+    right: 13%;
+    top: 13%;
+    bottom: 10%;
+    background-color: white;
+    position: fixed;
+}
+
+.footer{
+    left: 13%;
+    right: 13%;
+    top:80%;
+    bottom: 10%;
+    background-color: black;
+    position: fixed;
+}
+
